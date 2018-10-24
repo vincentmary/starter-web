@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ## How To contribute
 
 Sample text that indicates how to contribute
+
+Another paragraph
