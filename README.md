@@ -13,3 +13,7 @@ A Sample website with plenty of files for demos
 Sample text that indicates how to contribute
 
 Another paragraph
+
+Another paragraph - 1 - Update
+
+Another paragraph - 2
