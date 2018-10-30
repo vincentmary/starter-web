@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
+New feature finish
+
 ## Purpose
 
 A Sample website with plenty of files for demos
